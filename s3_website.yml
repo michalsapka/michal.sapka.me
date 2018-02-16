@@ -4,7 +4,7 @@
 s3_id: <%= ENV['S3_ID'] %>
 s3_secret: <%= ENV['S3_SECRET'] %>
 s3_bucket: www.sapka.me
-cloudfront_distribution_id: E3GBMT6PM7YDYX
+cloudfront_distribution_id: E3HRCV2V54STTQ
 s3_endpoint: eu-central-1
 gzip: true
 
