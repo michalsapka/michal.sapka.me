@@ -1,19 +1,19 @@
 ---
 layout: page
 permalink: software/opinionated.html
-title: Your software should be opinionated
+title: I want your software to be opinionated
 ---
 Recently, I’ve been thinking about software I use and why I hate Atlassian software so 
 much. It all came down to my take on the ontology of software.
 
-Dear Software industry: You are not selling me chair. You are selling a result of 
-thousands of hours of extremely inteligent people’s work. I’m sure you’ve though 
+Dear Software industry: You are not selling me ` chair. You are selling a result of 
+thousands of hours of extremely intelligent people’s work. I’m sure you’ve thought 
 long and hard about what works best. You know (or, at least, you think you know) what 
 process work best. This is what you are selling. The tool (aka „software”) is just a 
 by-product.
 
-Jira tries to fit into every possible process. It gives every possible option, you can 
-integrate it with everything and spend hours trying to get anything done. Confluence is 
+Jira tries to fit into every possible process. It gives yoy every possible option, you can 
+integrate it with everything and waste hours trying to get anything done. Confluence is 
 a collaborative hole where information is created and lost forever. Hipchat is just 
 bunch of virtual rooms full of people screaming.
 
@@ -22,7 +22,7 @@ software, and not a bunch of cards on the wall is, all in all, meaningless. And 
 of being a software, what does it actually do? Nothing. Absolutely nothing. It does not 
 solve any real problems my company encounters. It’s only a tool. Ultimately, what is 
 the difference between Confluence and Dropbox Paper? Slack and Hipchat? Jira and any of 
-the minion existing scrum software? Purely technical.
+the million existing scrum based software? Purely technical.
 
 What I expect software to do is to challenge me and try to enforce what I should and 
 shouldn’t be doing in order to be productive. When it comes to features, for every „yes” 
@@ -41,7 +41,7 @@ Also, I can’t do anything without the dot menu. Seriously. The single best fea
 Jira is a hack to mitigate it’s terrible user experience. 
 
 I can use a chair as a chair, as a table, as a wall for blanket fortress, as a weapon 
-against zombies, bookshelf. A can buy a million varieties of the same chair to feed my 
-liking. After all, it’s just chair. I may be a very great, comfortable, well build chair, 
+against zombies or as a bookshelf. I can buy a million varieties of the same chair to feed my 
+liking. After all, it’s just chair. It may be a very great, comfortable, well build chair, 
 but in the end it is still a chair. But I’m not trying to get stuff done using a chair. I 
 do that with software, so why are you selling me a chair?
