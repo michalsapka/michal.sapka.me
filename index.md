@@ -3,14 +3,12 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
-title: Home
+title: Hello
 ---
 
-# Hello
-
 I’m Michał. I am a husband, software engineer, sci-fi geek, anime fanboy, 
-and a [jazz fan](https://itunes.apple.com/profile/msapka) from Poland living in
-Cracow. That, more or less, summarizes me after 30 something years.
+and a [jazz fan](https://itunes.apple.com/profile/msapka) from Poland. 
+That, more or less, summarizes me after 30 something years.
 
 [How should you contact me?]({% link other/contact.md %})
 
